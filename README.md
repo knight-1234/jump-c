@@ -1,3 +1,3 @@
 # jump-c-cpp
-###Hi there
---Iam currently practicing codes in C and Cpp.
+#Hi there
+-I am currently practicing codes in C and Cpp.
